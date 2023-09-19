@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color:black;
+    margin-top: 100px;
+}
+.dom{
+    display: flex;
+    height: 350px;
+    width: 300px;
+    border: 9px solid rgb(101, 53, 156);
+    padding: 10px 20px;
+    background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+                linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+                linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+
+
